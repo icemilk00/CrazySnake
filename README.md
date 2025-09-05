@@ -14,6 +14,13 @@
 - 🏆 **独立排行榜** - 普通模式和挑战模式分别记录最高分
 - 🎯 **智能速度系统** - 动态调整游戏节奏，越玩越刺激
 
+## 📸 游戏界面预览
+
+<div align="center">
+  <img src="game-screenshot.svg" alt="Snake Game Ultimate 游戏界面" width="600">
+  <p><em>🎮 挑战模式界面展示 - 体验极限速度的刺激！</em></p>
+</div>
+
 ---
 
 ## 🚀 游戏特色
