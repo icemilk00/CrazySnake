@@ -1,5 +1,7 @@
 # 🐍 极限贪吃蛇 - Snake Game Ultimate
 
+**Language / 语言**: [English](README_EN.md) | **中文**
+
 > 🔥 **经典游戏，极致体验！** 准备好迎接最刺激的贪吃蛇挑战了吗？
 
 ## 🎮 [立即开始游戏](https://icemilk00.github.io/CrazySnake/)
